@@ -6,4 +6,6 @@
 
 #### 3，爬取头条街拍图片  ajax请求，request + re (这个略难，cookie不能少)
 
+#### 4，scrapy爬取360图片，大致了解scrapy的结构用法
+
 
